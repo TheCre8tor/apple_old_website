@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.top_navigation {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.list_container {
+    display: flex;
+    flex-direction: column;
+}
+
+.list_container .apple_logo img {
+    width: 20px;
+}
