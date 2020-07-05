@@ -1,6 +1,6 @@
 # PROJECT: POSITIONING AND FLOATING ELEMENTS
 Hello! **I'm Alexander Nitiola** and this is my **Project: Building with Backgrounds and Gradients** from the 
-curriculum of The Odin Project's [curriculum.](https://www.theodinproject.com/courses?ref=homenav)
+curriculum of The Odin Project's [Curriculum.](https://www.theodinproject.com/courses?ref=homenav)
 
 ## Screenshot of My Work
 ![Screenshot](assets/images/apple_clone.png)
