@@ -300,6 +300,8 @@ input[type="search"]:focus {
     display: flex;
     flex-direction: column;
     width: 980px;
+
+    
     /* border: 1px solid red; */
 }
 
