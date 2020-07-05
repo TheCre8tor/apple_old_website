@@ -3,7 +3,7 @@ Hello! **I'm Alexander Nitiola** and this is my **Project: Building with Backgro
 curriculum of The Odin Project's [curriculum.](https://www.theodinproject.com/courses?ref=homenav)
 
 ## Screenshot of My Work
-![Screenshot](assets/images/apple_clone.jpg)
+![Screenshot](assets/images/apple_clone.png)
 
 ## Notes
 - Instructions: [PROJECT: BUILDING WITH BACKGROUNDS AND GRADIENTS](https://theodinproject.com/courses/html-and-css/lessons/building-with-backgrounds-and-gradients)
